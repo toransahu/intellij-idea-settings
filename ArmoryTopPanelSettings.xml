@@ -1,0 +1,36 @@
+<application>
+  <component name="ArmoryTopPanelSettings">
+    <REGULAR>
+      <JAVA_ARGUMENT>
+        <option name="FOREGROUND" value="ff00ff" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="USE_DEFAULT" value="TRUE" />
+      </JAVA_ARGUMENT>
+      <JAVA_TYPE>
+        <option name="BACKGROUND" value="ccccff" />
+        <option name="USE_DEFAULT" value="TRUE" />
+      </JAVA_TYPE>
+      <PYTHON_ARGUMENT>
+        <option name="FOREGROUND" value="ff00ff" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="USE_DEFAULT" value="TRUE" />
+      </PYTHON_ARGUMENT>
+    </REGULAR>
+    <DARK>
+      <JAVA_ARGUMENT>
+        <option name="FOREGROUND" value="9776a9" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="USE_DEFAULT" value="TRUE" />
+      </JAVA_ARGUMENT>
+      <JAVA_TYPE>
+        <option name="BACKGROUND" value="374752" />
+        <option name="USE_DEFAULT" value="TRUE" />
+      </JAVA_TYPE>
+      <PYTHON_ARGUMENT>
+        <option name="FOREGROUND" value="9776a9" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="USE_DEFAULT" value="TRUE" />
+      </PYTHON_ARGUMENT>
+    </DARK>
+  </component>
+</application>
