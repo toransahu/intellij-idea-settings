@@ -1,0 +1,110 @@
+<application>
+  <component name="libraryTable">
+    <library name="Bundled Protobuf Distribution">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$APPLICATION_PLUGINS_DIR$/protobuf-jetbrains-plugin/lib/protobuf-java-3.6.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7 (demoapi) interpreter library">
+      <CLASSES>
+        <root url="file:///mnt/ExternalHDD/E/workspace/office-repos/mist/demoapi/venv2/lib/python2.7" />
+        <root url="file:///mnt/ExternalHDD/E/workspace/office-repos/mist/demoapi/venv2/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file:///mnt/ExternalHDD/E/workspace/office-repos/mist/demoapi/venv2/local/lib/python2.7/site-packages" />
+        <root url="file:///mnt/ExternalHDD/E/workspace/office-repos/mist/demoapi/venv2/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2018.2/system/python_stubs/-132226332" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///mnt/ExternalHDD/E/workspace/office-repos/mist/demoapi/venv2/lib/python2.7" />
+        <root url="file:///mnt/ExternalHDD/E/workspace/office-repos/mist/demoapi/venv2/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file:///mnt/ExternalHDD/E/workspace/office-repos/mist/demoapi/venv2/local/lib/python2.7/site-packages" />
+        <root url="file:///mnt/ExternalHDD/E/workspace/office-repos/mist/demoapi/venv2/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2018.2/system/python_stubs/-132226332" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7 (marvis) interpreter library">
+      <CLASSES>
+        <root url="file:///mnt/ExternalHDD/E/workspace/office-repos/mist/marvis/storm/py/venv/lib/python2.7" />
+        <root url="file:///mnt/ExternalHDD/E/workspace/office-repos/mist/marvis/storm/py/venv/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file:///mnt/ExternalHDD/E/workspace/office-repos/mist/marvis/storm/py/venv/local/lib/python2.7/site-packages" />
+        <root url="file:///mnt/ExternalHDD/E/workspace/office-repos/mist/marvis/storm/py/venv/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2018.2/system/python_stubs/-221564683" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///mnt/ExternalHDD/E/workspace/office-repos/mist/marvis/storm/py/venv/lib/python2.7" />
+        <root url="file:///mnt/ExternalHDD/E/workspace/office-repos/mist/marvis/storm/py/venv/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file:///mnt/ExternalHDD/E/workspace/office-repos/mist/marvis/storm/py/venv/local/lib/python2.7/site-packages" />
+        <root url="file:///mnt/ExternalHDD/E/workspace/office-repos/mist/marvis/storm/py/venv/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2018.2/system/python_stubs/-221564683" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7 (mobius venv) interpreter library">
+      <CLASSES>
+        <root url="file:///mnt/ExternalHDD/E/workspace/office-repos/mist/mobius/venv/lib/python2.7" />
+        <root url="file:///mnt/ExternalHDD/E/workspace/office-repos/mist/mobius/venv/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file:///mnt/ExternalHDD/E/workspace/office-repos/mist/mobius/venv/local/lib/python2.7/site-packages" />
+        <root url="file:///mnt/ExternalHDD/E/workspace/office-repos/mist/mobius/venv/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2018.2/system/python_stubs/-664832504" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///mnt/ExternalHDD/E/workspace/office-repos/mist/mobius/venv/lib/python2.7" />
+        <root url="file:///mnt/ExternalHDD/E/workspace/office-repos/mist/mobius/venv/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file:///mnt/ExternalHDD/E/workspace/office-repos/mist/mobius/venv/local/lib/python2.7/site-packages" />
+        <root url="file:///mnt/ExternalHDD/E/workspace/office-repos/mist/mobius/venv/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2018.2/system/python_stubs/-664832504" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+  </component>
+</application>

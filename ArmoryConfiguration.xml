@@ -1,0 +1,101 @@
+<application>
+  <component name="ArmoryConfiguration">
+    <sortingScheme>
+      <context name="files" default="Standard">
+        <scheme name="Standard">
+          <node name="groups" />
+          <node name="folder" />
+          <node name="file" />
+          <node name="java_class" />
+          <node name="groovy_class" />
+          <node name="kotlin_class" />
+        </scheme>
+      </context>
+      <context name="java_class" default="Standard">
+        <scheme name="Standard">
+          <node name="groups" />
+          <node name="class" />
+          <node name="constructor" />
+          <node name="method" />
+          <node name="field" />
+        </scheme>
+        <scheme name="Private at The End">
+          <node name="groups" />
+          <node name="class" />
+          <node name="field" />
+          <node name="constructor" />
+          <node name="method" />
+          <node name="class_private" />
+          <node name="field_private" />
+          <node name="constructor_private" />
+          <node name="method_private" />
+        </scheme>
+        <scheme name="Public at The Beginning">
+          <node name="groups" />
+          <node name="class_public" />
+          <node name="field_public" />
+          <node name="constructor_public" />
+          <node name="method_public" />
+          <node name="class" />
+          <node name="field" />
+          <node name="constructor" />
+          <node name="method" />
+        </scheme>
+      </context>
+      <context name="groovy_class" default="Standard">
+        <scheme name="Standard">
+          <node name="groups" />
+          <node name="class" />
+          <node name="constructor" />
+          <node name="method" />
+          <node name="field" />
+        </scheme>
+        <scheme name="Private at The End">
+          <node name="groups" />
+          <node name="class" />
+          <node name="field" />
+          <node name="constructor" />
+          <node name="method" />
+          <node name="class_private" />
+          <node name="field_private" />
+          <node name="constructor_private" />
+          <node name="method_private" />
+        </scheme>
+        <scheme name="Public at The Beginning">
+          <node name="groups" />
+          <node name="class_public" />
+          <node name="field_public" />
+          <node name="constructor_public" />
+          <node name="method_public" />
+          <node name="class" />
+          <node name="field" />
+          <node name="constructor" />
+          <node name="method" />
+        </scheme>
+      </context>
+      <context name="python_class" default="Standard">
+        <scheme name="Standard">
+          <node name="groups" />
+          <node name="class" />
+          <node name="constructor" />
+          <node name="method" />
+        </scheme>
+      </context>
+      <context name="python_file" default="Standard">
+        <scheme name="Standard">
+          <node name="groups" />
+          <node name="class" />
+          <node name="function" />
+        </scheme>
+      </context>
+      <context name="kotlin_class" default="Standard">
+        <scheme name="Standard">
+          <node name="groups" />
+          <node name="field" />
+          <node name="constructor" />
+          <node name="method" />
+        </scheme>
+      </context>
+    </sortingScheme>
+  </component>
+</application>
