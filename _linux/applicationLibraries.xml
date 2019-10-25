@@ -61,6 +61,33 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="Pipenv (py-misc) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/py-misc-X6OJyKji/lib/python3.7" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/py-misc-X6OJyKji/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/miniconda3/lib/python3.7" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/py-misc-X6OJyKji/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2019.1/system/python_stubs/24135293" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/py-misc-X6OJyKji/lib/python3.7" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/py-misc-X6OJyKji/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/miniconda3/lib/python3.7" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/py-misc-X6OJyKji/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2019.1/system/python_stubs/24135293" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="Python 2.7 (demoapi) interpreter library">
       <CLASSES>
         <root url="file:///mnt/ExternalHDD/E/workspace/office-repos/mist/demoapi/venv2/lib/python2.7" />
