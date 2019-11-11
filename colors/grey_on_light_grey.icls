@@ -3,14 +3,17 @@
     <property name="created">2019-11-10T22:55:18</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-11-11T10:27:34</property>
+    <property name="modified">2019-11-11T11:12:08</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
+  <colors>
+    <option name="RIGHT_MARGIN_COLOR" value="a0a0a0" />
+  </colors>
   <attributes>
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="b0b0b" />
-        <option name="BACKGROUND" value="e0e0e0" />
+        <option name="BACKGROUND" value="f0f0f0" />
       </value>
     </option>
   </attributes>
