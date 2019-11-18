@@ -61,6 +61,39 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="Pipenv (GenericCache) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/GenericCache-NLAVEJPO/lib/python2.7" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/GenericCache-NLAVEJPO/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/GenericCache-NLAVEJPO/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/GenericCache-NLAVEJPO/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2019.1/system/python_stubs/182892425" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/GenericCache-NLAVEJPO/lib/python2.7" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/GenericCache-NLAVEJPO/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/GenericCache-NLAVEJPO/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.local/share/virtualenvs/GenericCache-NLAVEJPO/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2019.1/system/python_stubs/182892425" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="Pipenv (py-misc) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/.local/share/virtualenvs/py-misc-X6OJyKji/lib/python3.7" />
