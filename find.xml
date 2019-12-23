@@ -13,10 +13,10 @@
     <mask>*.mxml</mask>
     <mask>*views.py</mask>
     <mask>sites/views.py</mask>
-    <mask>*.py</mask>
     <mask>*.html</mask>
     <mask>*Test.java</mask>
     <mask>views.py</mask>
+    <mask>*.py</mask>
     <mask>*.java</mask>
   </component>
 </application>
