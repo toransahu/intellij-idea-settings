@@ -1,14 +1,11 @@
-<scheme name="grey_on_light_grey" version="142" parent_scheme="Default">
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2019-11-10T22:55:18</property>
+    <property name="created">2019-11-06T22:40:44</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-11-11T11:12:08</property>
-    <property name="originalScheme">_@user_Default</property>
+    <property name="modified">2019-11-10T12:29:23</property>
+    <property name="originalScheme">Default</property>
   </metaInfo>
-  <colors>
-    <option name="RIGHT_MARGIN_COLOR" value="a0a0a0" />
-  </colors>
   <attributes>
     <option name="TEXT">
       <value>
