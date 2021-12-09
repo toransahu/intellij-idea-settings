@@ -1,5 +1,5 @@
 <application>
   <component name="UISettings">
-    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
   </component>
 </application>
